@@ -1,0 +1,12 @@
+{
+    "name": "root/php-sonarqube-demo",
+    "authors": [
+        {
+            "name": "Kunal Chaudhary",
+            "email": "c.kunal9868@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
